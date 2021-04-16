@@ -2,7 +2,7 @@
 
 - A high school student who likes coding... Currently learning - Kotlin and JavaScript
 
-- My interest? Umm.... Music, Songwriting, Photography and Browsing the Internet!
+- My interest? Umm.... Music, Songwriting, Photography, Aviation and Browsing the Internet!
 
 - Connect Me on... No No No, I am not gonna give my personal socials! Though you can connect with me on Brainly.in, Discord, SoloLearn 
 - Brainly.in: https://brainly.in/app/profile/24675986
