@@ -4,7 +4,7 @@
 
 - My interest? Umm.... Music, Songwriting, Photography, Aviation and Browsing the Internet!
 
-- I unprofessional coder and discord bot developer. 
+- A unprofessional coder and discord bot developer. 
 
 - Connect Me on... No No No, I am not gonna give my personal socials! Though you can connect with me on Discord, Stack Overflow
 - Discord ID: ATRS#2307
