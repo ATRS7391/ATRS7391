@@ -8,7 +8,7 @@
 
 - Connect Me on... No No No, I am not gonna give my personal socials! Though you can connect with me on Discord, Stack Overflow
 
-- Discord ID: ATRS#2307
+- Discord ID: ATRS#3384
 
 - Stack Overflow: https://stackoverflow.com/users/15661845/atrs
 
