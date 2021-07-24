@@ -1,12 +1,47 @@
-- ATRS here, Reason for this unique name? is unknown!!!
 
-- A high school student who likes coding... Currently learning - Kotlin and JavaScript
+# ```Kon'nichiwa 👋 ATRS here!```
 
-- My interest? Umm.... Music, Songwriting, Photography, Aviation and Browsing the Internet!
 
-- A unprofessional coder and discord bot developer. 
 
-- [Website](https://atrs7391.github.io/AboutMe/)
+![Logo](https://atrs7391.github.io/AboutMe/profilelogo.png)
+
+    
+## ```🚀 About Me```
+I am `ATRS | The Idiot from Titan`. 
+
+Reason for this unique name? isUnknown()
+
+An unprofessional programmer who is busy with his own useless projects, then deletes them. (ig no further description needed of `idiot`)
+
+Loves():
+
+- Music
+
+- Aviation
+
+- Photography
+
+  ```More about me:```
+  
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://atrs7391.github.io/AboutMe/)
+
+`Side Note:` I am not Japanese if you are thinking so... I just love the language...
+## ```🛠 Skills```
+- Java - Ex [75%]
+
+- Python - Current [85%]
+
+- Kotlin - Crush [55%]
+
+- JavaScript - Alternate Future Option [30%]
+
+- HTML, CSS - Just Friends [65%]
+
+- C++, C, C#, PHP - Past Options [20%]
+
+`Currently learning JavaScript and mastering Kotlin`
+
+  
 
 
 
