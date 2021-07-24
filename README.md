@@ -6,7 +6,7 @@
 
 - A unprofessional coder and discord bot developer. 
 
-- (Website)[https://atrs7391.github.io/AboutMe/]
+- [Website](https://atrs7391.github.io/AboutMe/)
 
 
 
