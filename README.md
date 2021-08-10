@@ -3,7 +3,7 @@
 
 
 
-![Logo](https://atrs7391.github.io/AboutMe/profilelogo.png)
+![Logo](https://atrs7391.github.io/profilelogo.png)
 
     
 ## ```🚀 About Me```
