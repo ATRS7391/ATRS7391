@@ -46,7 +46,14 @@ Loves():
 
 - ### [My Portfolio](https://atrs7391.github.io)
  <br> [Earlier Portfolio](https://atrs7391.github.io/Old)
- <br> [First Portfolio](https://atrs7391.github.io/Oldest)
+ <br> [First Portfolio](https://atrs7391.github.io/Older)
+ 
+- ### [Lyrics Finder](https://atrs7391.github.io/Lyrics-Finder-Web/)
+ <br> [Dark Mode](https://atrs7391.github.io/Lyrics-Finder-Web/dark)
+ 
+- ### [Beats Maker](https://atrs7391.github.io/Beats-Maker/)
+
+- ### [Love Calculator](https://atrs7391.github.io/LoveCalculator/)
   
 
 
