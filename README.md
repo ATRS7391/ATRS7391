@@ -24,6 +24,7 @@ Loves():
   ```More about me:```
   
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://atrs7391.github.io/)
+  ![counter](https://enh2ydya0cf6i98.m.pipedream.net/)
 
 `Side Note:` I am not Japanese if you are thinking so... I just love the language...
 ## ```🛠 Skills```
