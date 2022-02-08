@@ -1,9 +1,6 @@
 <h1><p align="center">
     Kon'nichiwa 👋 ATRS here!
 </p></h1>
-<p align="center">
-    <img src="https://atrs7391.github.io/profilelogo.png" alt="ATRS Logo">
-</p>
 
 <!-- <p align="center">
     Hi, I'm ATRS. Umm, in short I love music a lot, an aviation ethusiast and intermidiate but unprofessional coder.
