@@ -1,7 +1,7 @@
 <h1><p align="center">Konnichiwa👋<br><code>ATRS</code> here! •‿•</p></h1>
 <a href="https://atrs7391.github.io/" target="_blank">
     <p align="center">
-        <img src="https://raw.githubusercontent.com/ATRS7391/ATRS7391/main/atrs_no_background.png" alt="Website_2" height="250px">        
+        <img src="https://raw.githubusercontent.com/ATRS7391/ATRS7391/main/atrs_no_background.png" alt="Website_2">        
     </p>
 </a>
 
