@@ -35,7 +35,9 @@ me.say_hello()
     <img src="https://enh2ydya0cf6i98.m.pipedream.net/" alt="Counter">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ATRS7391" alt="ATRS' GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ATRS7391&bg_color=45,6c89ff,9b59b6&title_color=fff&text_color=fff" alt="ATRS' GitHub Stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATRS7391&bg_color=30,9b59b6,ff7f7f&title_color=fff&text_color=fff&layout=compact" alt="ATRS' Most Used Languages">
 </p>
 
 
