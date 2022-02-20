@@ -28,25 +28,21 @@ me.say_hello()
 
 
 <hr>
-
-
-<a href="https://atrs7391.github.io/" target="_blank">
-    <p align="center">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Website">        
-    </p>
-</a>
-<p align="center">
+<br>
+<p align="left">
     <img src="https://enh2ydya0cf6i98.m.pipedream.net/" alt="Counter">
 </p>
-<p align="center">
+
+
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=ATRS7391&bg_color=45,6c89ff,9b59b6&title_color=fff&text_color=fff" alt="ATRS' GitHub Stats">
-    <br>
+<!--     <br> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATRS7391&bg_color=30,9b59b6,ff7f7f&title_color=fff&text_color=fff&layout=compact" alt="ATRS' Most Used Languages">
 </p>
+<hr>
+<br>
 
-
-
-## Language Closet
+# Tech Closet
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
