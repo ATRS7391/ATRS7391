@@ -15,7 +15,7 @@ class myself:
         self.name = "ATRS" or "ATRS7391"
         self.pronouns = "he/him"
         self.location = "Earth"
-        self.description = "I'm an Idiot from Titan xD. I'm highly motivated not to do anything (I'm lazy) and I love to sleep =)"
+        self.description = "I'm an Idiot from Titan xD. I'm highly motivated not to do anything (I'm lazy) :D"
         self.interests = ["Music", "Aviation", "Computer Science", "Web Surfing"]
         self.favorite_language = "Python"
         
